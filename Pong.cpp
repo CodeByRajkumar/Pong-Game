@@ -118,4 +118,5 @@ int main(){
 	return 0;
 
 }
-//g++ Timber.cpp -o timber -lsfml-system -lsfml-window -lsfml-graphics -lsfml-audio
+//  g++ Pong.cpp -o Pong -lsfml-system -lsfml-window -lsfml-graphics -lsfml-audio
+//  ./Pong
