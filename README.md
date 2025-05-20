@@ -28,3 +28,5 @@ The game features a paddle (bat) controlled by the player to bounce the ball and
 ```bash
 git clone https://github.com/CodeByRajkumar/Pong-Game.git
 cd Pong-Game
+g++ Pong.cpp -o Pong -lsfml-system -lsfml-window -lsfml-graphics -lsfml-audio
+./Pong
